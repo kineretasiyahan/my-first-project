@@ -1,0 +1,50 @@
+html , body { height: 100%;}
+
+h1 {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 10px;
+    text-align: center;
+    height: 8%;
+    width: 100%;
+    font-family: 'Hanalei Fill', cursive;
+}
+
+img {
+    width: 350px;
+    height: 350px;
+    border-radius: 175px;
+    box-shadow: black 2px 4px 8px 6px;
+}
+
+a {
+    font-family: 'Hanalei Fill', cursive;
+    opacity: 0.5;
+}
+
+a:hover {
+    font-size: xx-large;
+    color: black;
+    cursor: pointer;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+body {
+    background-color: palegoldenrod;
+}
+p { color: brown;
+    overflow: scroll;
+    width: 1350px;
+height: 180px;}
+
+footer {height: 7%;
+    position: -webkit-sticky;
+    position: sticky;
+    font-size: xx-large;
+    bottom: 10px;;
+    text-align: center;
+    width: 100%;
+    font-family: 'Hanalei Fill', cursive;}
